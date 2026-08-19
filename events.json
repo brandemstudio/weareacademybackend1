@@ -1,0 +1,42 @@
+[
+  {
+    "id": "evt-summer-showcase",
+    "title": "Summer Showcase 2026",
+    "date": "2026-09-12",
+    "time": "7:00pm",
+    "venue": "We Are The Academy London — Main Studio",
+    "description": "Our biggest night of the year — every class performs a routine they've built over the term, in front of friends, family and the wider Academy community.",
+    "price": 1500,
+    "capacity": 120
+  },
+  {
+    "id": "evt-guest-workshop-afrobeats",
+    "title": "Guest Workshop: Afrobeats Intensive",
+    "date": "2026-09-20",
+    "time": "2:00pm",
+    "venue": "We Are The Academy London — Studio 2",
+    "description": "A 2-hour intensive with a touring Afrobeats choreographer, open to all levels. Learn a full routine and the stories behind the movement.",
+    "price": 2000,
+    "capacity": 40
+  },
+  {
+    "id": "evt-heels-showcase",
+    "title": "Heels Showcase Night",
+    "date": "2026-10-03",
+    "time": "8:00pm",
+    "venue": "We Are The Academy London — Main Studio",
+    "description": "An evening dedicated to the Heels programme — routines, guest performers, and a Q&A with Kelly Westgate on breaking into commercial dance.",
+    "price": 1200,
+    "capacity": 80
+  },
+  {
+    "id": "evt-open-day",
+    "title": "Open Day & Free Taster Classes",
+    "date": "2026-10-18",
+    "time": "11:00am",
+    "venue": "We Are The Academy London — Main Studio",
+    "description": "Bring a friend — free 30-minute taster sessions across Hip-Hop, Street and Commercial, plus a tour of the studio and a chat with instructors.",
+    "price": 0,
+    "capacity": 60
+  }
+]
